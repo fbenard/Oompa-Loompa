@@ -1,0 +1,40 @@
+{
+	"name": "fbenard/oompa-loompa",
+	"description": "",
+	"type": "library",
+	"keywords": ["job", "php"],
+	"homepage": "http://github.com/fbenard/oompa-loompa",
+	"license": "MIT",
+	"authors":
+	[
+		{
+			"name": "Fabien BÉNARD",
+			"email": "fbenard.public@gmail.com",
+			"homepage": "http://fabienbenard.com",
+			"role": "Developer"
+		}
+	],
+	"support":
+	{
+		"email": "fbenard.public@gmail.com",
+		"issues": "http://github.com/fbenard/oompa-loompa/issues",
+		"source": "http://github.com/fbenard/oompa-loompa"
+	},
+	"require":
+	{
+		"php": ">=5.4.0",
+		"predis/predis": "1.0.0",
+		"videlalvaro/php-amqplib": "v2.1.0"
+	},
+	"require-dev":
+	{
+		"phpunit/phpunit": "4.4.x-dev"
+	},
+	"autoload":
+	{
+		"psr-4":
+		{
+			"fbenard\\OompaLoompa\\": "Application/"
+		}
+	}
+}
