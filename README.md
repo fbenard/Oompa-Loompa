@@ -1,10 +1,12 @@
 # Oompa Loompa
 
 >
-_Oompa Loompa — Native of Loompaland, usually tending towards attributes of small size, an orange commplexion, and green hair; the first recorded information of them comes to us from Roahld Dahl, the author of Charlie and the Chocolate Factory._
+_Oompa Loompa — Native of Loompaland, usually tending towards attributes of small size, an orange commplexion, and green hair._
 
 >
 (Source: Urban Dictionnary)
+
+Oompa Loompa is also a PHP component that makes parallelization a reality in PHP applications.
 
 
 ## Install
