@@ -1,4 +1,4 @@
-# Ommpa Loompa
+# Oompa Loompa
 
 ## Install
 
