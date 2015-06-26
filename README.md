@@ -31,7 +31,7 @@ composer update
 
 ## Authors
 
-Oompa Loompa is carefully taken care of by [Fabien BÉNARD](http://fabienbenard.com).
+Oompa Loompa is carefully taken care of by [Fabien BÉNARD](http://fabien.benard.co).
 
 
 ## License
